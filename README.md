@@ -244,3 +244,9 @@ See the issue [Current Limitations](https://github.com/superfaceai/social-media-
 - Followed setup instructions to understand OAuth flows and platform integration.
 - Learned how Superface OneSDK works for social media automation.
 
+## Observations
+
+- The demo uses Passport.js for access tokens.
+- OAuth scopes differ for Facebook, Instagram, and Twitter.
+- The project provides reusable code examples for publishing posts across platforms.
+
