@@ -237,3 +237,10 @@ Produces output like:
 ## Current limitations
 
 See the issue [Current Limitations](https://github.com/superfaceai/social-media-demo/issues/11).
+
+## How I Used This Project
+
+- Explored the social media demo locally and tested Facebook and Instagram publishing features.
+- Followed setup instructions to understand OAuth flows and platform integration.
+- Learned how Superface OneSDK works for social media automation.
+
